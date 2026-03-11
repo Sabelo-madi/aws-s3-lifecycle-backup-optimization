@@ -1,7 +1,6 @@
 # aws-s3-lifecycle-backup-optimization
-AWS S3 Lifecycle policy implementation for backup cost optimization and long-term retention.
+/AWS S3 Lifecycle policy implementation for backup cost optimization and long-term retention./
 
-# S3 Lifecycle Implementation
 
 ## Step 1 – Access the S3 Bucket
 
